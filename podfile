@@ -1,0 +1,15 @@
+ platform :ios, '9.0'
+
+target 'LGDouyinDemo' do
+ 
+    pod 'AFNetworking'
+    pod 'SDWebImage'
+    pod 'MBProgressHUD'
+    pod 'YYModel'
+    pod 'MJRefresh'
+    pod 'Masonry'
+    pod 'MJExtension'
+   pod 'GSKStretchyHeaderView'
+   pod 'CHTCollectionViewWaterfallLayout'
+
+end
